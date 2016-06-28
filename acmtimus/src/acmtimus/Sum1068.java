@@ -36,5 +36,6 @@ public static void main(String[] args) {
 	}
 	else
 		System.out.println("Invalid input");
+	sc.close();
 }
 }
